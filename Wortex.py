@@ -33,7 +33,7 @@ while(True):
 |> \033[1;32mSocial Medias / Sosyal Medyalar;                           \033[1;31m\/  \/         \033[0m* <|
 |> \033[1;31mYoutube: https://www.youtube.com/channel/UCXspb19nmlqMkuakJklcqsw         \033[0m* <|
 |> \033[1;34mDiscord: https://discord.gg/eZKQWcmuNy                                    \033[0m* <|
-|> \033[0mWebSite: http://turkishguyteam.rf.gd/ \033[1;31m00110011 \033[1;32m00110001 \033[1;33m01110011 \033[1;34m01101010 \033[0m* <|                                                                                                 
+|> \033[0mWebSite: http://turkishguy.rf.gd/     \033[1;31m00110011 \033[1;32m00110001 \033[1;33m01110011 \033[1;34m01101010 \033[0m* <|                                                                                                 
 \_______________________________________________________________________________/
  """
 
