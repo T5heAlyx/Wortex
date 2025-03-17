@@ -49,7 +49,7 @@ ______________________________________________________________________
 _________________________________________________________________________________
 |\033[1;31m Youtube: https://www.youtube.com/channel/UCXspb19nmlqMkuakJklcqsw              \033[0m|
 |\033[1;34m Discord: https://discord.gg/eZKQWcmuNy                                         \033[0m|    
-|\033[0m WebSite: http://turkishguyteam.rf.gd/                                          |
+|\033[0m WebSite: https://turkishguy.rf.gd/                                             |
 |________________________________________________________________________________|
  """
 
